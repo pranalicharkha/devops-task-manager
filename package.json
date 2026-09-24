@@ -1,0 +1,22 @@
+{
+  "name": "devops-task-manager",
+  "version": "1.0.0",
+  "description": "Student Task Manager",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranalicharkha/devops-task-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pranalicharkha/devops-task-manager/issues"
+  },
+  "homepage": "https://github.com/pranalicharkha/devops-task-manager#readme"
+}
