@@ -3,7 +3,7 @@ const fs = require('fs');
 const tests = [
     'app.js',
     'package.json',
-    'missing.html'
+    'index.html'
 ];
 
 console.log('Starting automated tests...');
